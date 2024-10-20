@@ -1,2 +1,2 @@
-# Go-game-
-Five in a Row is an abstract strategy board game and is also called Gomoku, Gobang. It is traditionally played with go pieces (black and white stones) on a go board (19x19 intersections); however, because once placed, pieces are not moved or removed from the board
+# Introduction-to-Computer-Science-Final-Project-
+In the Introduction to Computer Science course, we focus on the fundamentals of the C programming language. To apply our knowledge, the course requires students to complete a final project by developing a fully functional Gomoku game in C. This project encompasses the game's core logic, user interface design, and feature implementation, aiming to solidify students' programming skills and enhance their ability to solve real-world problems.
